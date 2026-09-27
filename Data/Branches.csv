@@ -1,0 +1,151 @@
+Branch_ID,Branch_Name,City,State,Region,Branch_Type,Branch_Manager,Opening_Year
+BR0001,Rourkela Extension Counter,Rourkela,Odisha,East,Semi-Urban,Anil Kumar,1995
+BR0002,Rohini Central Branch,Rohini,Delhi,North,Rural,Komal Iyer,1992
+BR0003,New Delhi Central Branch,New Delhi,Delhi,North,Metro,Farhan Saxena,1998
+BR0004,Surat City Branch,Surat,Gujarat,West,Urban,Sunita Roy,2017
+BR0005,Kolkata City Branch,Kolkata,West Bengal,East,Urban,Pooja Rathore,2003
+BR0006,Jaipur Central Branch,Jaipur,Rajasthan,North,Semi-Urban,Rajesh Ansari,2019
+BR0007,Pune Branch,Pune,Maharashtra,West,Metro,Riya Yadav,1992
+BR0008,Dehradun Extension Counter,Dehradun,Uttarakhand,North,Semi-Urban,Amit Bansal,2006
+BR0009,Tiruchirappalli Main Branch,Tiruchirappalli,Tamil Nadu,South,Rural,Ishaan Joshi,1999
+BR0010,Kochi City Branch,Kochi,Kerala,South,Semi-Urban,Kritika Joshi,1998
+BR0011,Bhilai Central Branch,Bhilai,Chhattisgarh,Central,Rural,Aarav Choudhary,1997
+BR0012,Panaji City Branch,Panaji,Goa,West,Rural,Suman Sharma,1998
+BR0013,Haridwar Branch,Haridwar,Uttarakhand,North,Rural,Zara Bhattacharya,2018
+BR0014,Haridwar Main Branch,Haridwar,Uttarakhand,North,Urban,Saurabh Das,2014
+BR0015,Tiruchirappalli Branch,Tiruchirappalli,Tamil Nadu,South,Urban,Bhavna Gupta,2005
+BR0016,New Delhi Central Branch 2,New Delhi,Delhi,North,Urban,Sneha Pandey,1990
+BR0017,Bengaluru City Branch,Bengaluru,Karnataka,South,Metro,Kavita Jain,2011
+BR0018,Raipur City Branch,Raipur,Chhattisgarh,Central,Rural,Manoj Naidu,2011
+BR0019,Surat City Branch 2,Surat,Gujarat,West,Urban,Pari Roy,2000
+BR0020,Hyderabad Main Branch,Hyderabad,Telangana,South,Metro,Karan Patel,2005
+BR0021,Visakhapatnam Main Branch,Visakhapatnam,Andhra Pradesh,South,Semi-Urban,Rahul Rathore,2000
+BR0022,Gwalior City Branch,Gwalior,Madhya Pradesh,Central,Urban,Zara Trivedi,2021
+BR0023,Howrah Branch,Howrah,West Bengal,East,Urban,Aryan Iyer,2019
+BR0024,Gwalior Main Branch,Gwalior,Madhya Pradesh,Central,Rural,Rahul Choudhary,2015
+BR0025,Imphal Main Branch,Imphal,Manipur,Northeast,Urban,Kabir Rathore,1999
+BR0026,Dwarka Extension Counter,Dwarka,Delhi,North,Urban,Yash Chauhan,2002
+BR0027,Faridabad Main Branch,Faridabad,Haryana,North,Urban,Ashok Dubey,2002
+BR0028,Pune Central Branch,Pune,Maharashtra,West,Metro,Ritu Desai,2012
+BR0029,Faridabad City Branch,Faridabad,Haryana,North,Semi-Urban,Sai Khan,1996
+BR0030,Mangaluru City Branch,Mangaluru,Karnataka,South,Semi-Urban,Rohan Khanna,1994
+BR0031,Bengaluru Branch,Bengaluru,Karnataka,South,Urban,Vivaan Pandey,1992
+BR0032,Hyderabad Branch,Hyderabad,Telangana,South,Metro,Ananya Jain,1992
+BR0033,Rohini Central Branch 2,Rohini,Delhi,North,Semi-Urban,Anil Kapoor,2019
+BR0034,Kochi Branch,Kochi,Kerala,South,Semi-Urban,Ishaan Nair,2015
+BR0035,Hyderabad City Branch,Hyderabad,Telangana,South,Metro,Gaurav Kapoor,2000
+BR0036,Faridabad Central Branch,Faridabad,Haryana,North,Semi-Urban,Manoj Yadav,2010
+BR0037,Mangaluru City Branch 2,Mangaluru,Karnataka,South,Urban,Manoj Nair,2022
+BR0038,Vijayawada Extension Counter,Vijayawada,Andhra Pradesh,South,Urban,Aarav Verma,2001
+BR0039,Bengaluru Main Branch,Bengaluru,Karnataka,South,Metro,Pankaj Agarwal,2004
+BR0040,Madurai Branch,Madurai,Tamil Nadu,South,Urban,Bhavna Pillai,2013
+BR0041,Madurai City Branch,Madurai,Tamil Nadu,South,Urban,Kavya Sinha,1995
+BR0042,Jalandhar City Branch,Jalandhar,Punjab,North,Semi-Urban,Sandeep Choudhary,2019
+BR0043,Kolkata Extension Counter,Kolkata,West Bengal,East,Semi-Urban,Zara Sen,2001
+BR0044,Amritsar Extension Counter,Amritsar,Punjab,North,Semi-Urban,Deepak Sharma,1996
+BR0045,Kolkata City Branch 2,Kolkata,West Bengal,East,Urban,Ira Kumar,1990
+BR0046,Jalandhar Central Branch,Jalandhar,Punjab,North,Rural,Rekha Iyer,2006
+BR0047,Hyderabad Central Branch,Hyderabad,Telangana,South,Metro,Nisha Chauhan,2002
+BR0048,Vadodara Main Branch,Vadodara,Gujarat,West,Urban,Riya Reddy,1993
+BR0049,Haridwar Main Branch 2,Haridwar,Uttarakhand,North,Metro,Kritika Sayed,2007
+BR0050,Jalandhar Main Branch,Jalandhar,Punjab,North,Rural,Usha Verma,2000
+BR0051,Mysuru Main Branch,Mysuru,Karnataka,South,Semi-Urban,Pooja Pillai,2021
+BR0052,Tiruchirappalli Extension Counter,Tiruchirappalli,Tamil Nadu,South,Semi-Urban,Dev Dubey,1999
+BR0053,Siliguri City Branch,Siliguri,West Bengal,East,Semi-Urban,Dev Banerjee,1994
+BR0054,Lucknow City Branch,Lucknow,Uttar Pradesh,North,Metro,Deepak Choudhary,2008
+BR0055,New Delhi Branch,New Delhi,Delhi,North,Urban,Isha Bose,2000
+BR0056,Surat Branch,Surat,Gujarat,West,Semi-Urban,Geeta Roy,2017
+BR0057,Thiruvananthapuram City Branch,Thiruvananthapuram,Kerala,South,Semi-Urban,Anil Reddy,1990
+BR0058,Kolkata Extension Counter 2,Kolkata,West Bengal,East,Urban,Naveen Desai,1992
+BR0059,Nashik Extension Counter,Nashik,Maharashtra,West,Semi-Urban,Harish Rathore,2004
+BR0060,Pune Branch 2,Pune,Maharashtra,West,Metro,Rajesh Kumar,2000
+BR0061,Vadodara Extension Counter,Vadodara,Gujarat,West,Semi-Urban,Isha Das,2023
+BR0062,Mysuru Central Branch,Mysuru,Karnataka,South,Metro,Sneha Sayed,1993
+BR0063,Agra Branch,Agra,Uttar Pradesh,North,Semi-Urban,Vihaan Menon,2016
+BR0064,New Delhi Branch 2,New Delhi,Delhi,North,Rural,Sunita Rao,1992
+BR0065,Coimbatore Main Branch,Coimbatore,Tamil Nadu,South,Semi-Urban,Radha Rathore,2004
+BR0066,Siliguri Main Branch,Siliguri,West Bengal,East,Urban,Fatima Dubey,2003
+BR0067,Warangal Main Branch,Warangal,Telangana,South,Semi-Urban,Farhan Ghosh,2023
+BR0068,Rajkot Extension Counter,Rajkot,Gujarat,West,Semi-Urban,Rohan Thakur,1998
+BR0069,Ahmedabad Central Branch,Ahmedabad,Gujarat,West,Metro,Aarav Khan,2012
+BR0070,Visakhapatnam City Branch,Visakhapatnam,Andhra Pradesh,South,Semi-Urban,Neha Choudhary,2019
+BR0071,Faridabad Branch,Faridabad,Haryana,North,Urban,Meera Ansari,2009
+BR0072,Vijayawada Central Branch,Vijayawada,Andhra Pradesh,South,Rural,Divya Pillai,2006
+BR0073,Bhopal Extension Counter,Bhopal,Madhya Pradesh,Central,Semi-Urban,Vijay Choudhary,1997
+BR0074,Panaji Central Branch,Panaji,Goa,West,Semi-Urban,Sai Chatterjee,2000
+BR0075,Gaya Branch,Gaya,Bihar,East,Urban,Swati Naidu,2012
+BR0076,Patna Extension Counter,Patna,Bihar,East,Urban,Ajay Sharma,2007
+BR0077,Ahmedabad City Branch,Ahmedabad,Gujarat,West,Urban,Deepak Desai,1996
+BR0078,Muzaffarpur Main Branch,Muzaffarpur,Bihar,East,Semi-Urban,Sai Ansari,2000
+BR0079,Bhubaneswar Extension Counter,Bhubaneswar,Odisha,East,Semi-Urban,Kavita Rao,1995
+BR0080,Coimbatore Central Branch,Coimbatore,Tamil Nadu,South,Urban,Pooja Banerjee,2017
+BR0081,Coimbatore City Branch,Coimbatore,Tamil Nadu,South,Urban,Kabir Menon,1990
+BR0082,Visakhapatnam Extension Counter,Visakhapatnam,Andhra Pradesh,South,Rural,Swati Verma,1991
+BR0083,Panaji Main Branch,Panaji,Goa,West,Urban,Ishaan Das,2012
+BR0084,Cuttack Main Branch,Cuttack,Odisha,East,Semi-Urban,Sunita Chauhan,2010
+BR0085,Ahmedabad City Branch 2,Ahmedabad,Gujarat,West,Metro,Preeti Roy,2014
+BR0086,Vijayawada Main Branch,Vijayawada,Andhra Pradesh,South,Urban,Geeta Ansari,1990
+BR0087,Hyderabad Branch 2,Hyderabad,Telangana,South,Metro,Radha Choudhary,2004
+BR0088,Ranchi Branch,Ranchi,Jharkhand,East,Semi-Urban,Kavya Menon,2004
+BR0089,Ranchi Central Branch,Ranchi,Jharkhand,East,Metro,Aisha Trivedi,2009
+BR0090,Jaipur City Branch,Jaipur,Rajasthan,North,Urban,Kabir Singh,2007
+BR0091,Indore Branch,Indore,Madhya Pradesh,Central,Semi-Urban,Riya Bose,2020
+BR0092,Jaipur City Branch 2,Jaipur,Rajasthan,North,Rural,Suman Banerjee,1993
+BR0093,Patna Branch,Patna,Bihar,East,Rural,Suresh Saxena,2011
+BR0094,Chennai City Branch,Chennai,Tamil Nadu,South,Metro,Aisha Chatterjee,2017
+BR0095,Haridwar Main Branch 3,Haridwar,Uttarakhand,North,Rural,Usha Banerjee,1996
+BR0096,Agartala Branch,Agartala,Tripura,Northeast,Urban,Komal Sayed,2005
+BR0097,Muzaffarpur City Branch,Muzaffarpur,Bihar,East,Metro,Priya Iyengar,2009
+BR0098,Haridwar Extension Counter,Haridwar,Uttarakhand,North,Urban,Pooja Bhatt,2016
+BR0099,Mumbai Central Branch,Mumbai,Maharashtra,West,Metro,Radha Verma,2003
+BR0100,Pune Branch 3,Pune,Maharashtra,West,Metro,Komal Bhattacharya,1999
+BR0101,Chennai Central Branch,Chennai,Tamil Nadu,South,Metro,Ashok Sheikh,2008
+BR0102,Jabalpur Extension Counter,Jabalpur,Madhya Pradesh,Central,Urban,Meera Yadav,2006
+BR0103,Dibrugarh Main Branch,Dibrugarh,Assam,Northeast,Semi-Urban,Preeti Khan,2014
+BR0104,Dehradun Branch,Dehradun,Uttarakhand,North,Semi-Urban,Vikram Rathore,1994
+BR0105,Mumbai Central Branch 2,Mumbai,Maharashtra,West,Metro,Pooja Sayed,2005
+BR0106,Varanasi Main Branch,Varanasi,Uttar Pradesh,North,Rural,Radha Rao,2012
+BR0107,Jaipur Main Branch,Jaipur,Rajasthan,North,Semi-Urban,Fatima Verma,1994
+BR0108,Pune Main Branch,Pune,Maharashtra,West,Metro,Nikhil Kapoor,1995
+BR0109,Gwalior Central Branch,Gwalior,Madhya Pradesh,Central,Semi-Urban,Kavya Bhattacharya,2009
+BR0110,Visakhapatnam Branch,Visakhapatnam,Andhra Pradesh,South,Semi-Urban,Suman Malhotra,2009
+BR0111,Bengaluru Central Branch,Bengaluru,Karnataka,South,Urban,Neha Yadav,2005
+BR0112,Haridwar Extension Counter 2,Haridwar,Uttarakhand,North,Semi-Urban,Aditya Ghosh,2012
+BR0113,Thiruvananthapuram Central Branch,Thiruvananthapuram,Kerala,South,Semi-Urban,Aryan Naidu,1997
+BR0114,Cuttack Extension Counter,Cuttack,Odisha,East,Urban,Usha Sayed,2004
+BR0115,Bhopal Main Branch,Bhopal,Madhya Pradesh,Central,Rural,Nikhil Sheikh,2013
+BR0116,Mumbai Central Branch 3,Mumbai,Maharashtra,West,Urban,Vivaan Sharma,2018
+BR0117,Rajkot Central Branch,Rajkot,Gujarat,West,Urban,Kavita Sen,2017
+BR0118,Pune City Branch,Pune,Maharashtra,West,Metro,Vijay Gupta,2023
+BR0119,Tiruchirappalli Central Branch,Tiruchirappalli,Tamil Nadu,South,Semi-Urban,Arjun Das,2023
+BR0120,Raipur Central Branch,Raipur,Chhattisgarh,Central,Semi-Urban,Sunita Shah,2015
+BR0121,Siliguri Branch,Siliguri,West Bengal,East,Rural,Simran Shah,2023
+BR0122,Thiruvananthapuram Branch,Thiruvananthapuram,Kerala,South,Urban,Simran Joshi,1995
+BR0123,Gaya Extension Counter,Gaya,Bihar,East,Semi-Urban,Ananya Chatterjee,1998
+BR0124,Pune Branch 4,Pune,Maharashtra,West,Semi-Urban,Suman Banerjee,1995
+BR0125,Warangal Extension Counter,Warangal,Telangana,South,Urban,Kabir Naidu,2012
+BR0126,Kozhikode City Branch,Kozhikode,Kerala,South,Semi-Urban,Ritu Kapoor,1998
+BR0127,Bhopal Central Branch,Bhopal,Madhya Pradesh,Central,Urban,Priya Nair,2002
+BR0128,Vijayawada Central Branch 2,Vijayawada,Andhra Pradesh,South,Semi-Urban,Rekha Mehta,2002
+BR0129,Hyderabad Main Branch 2,Hyderabad,Telangana,South,Metro,Shreya Gupta,1998
+BR0130,Jabalpur Extension Counter 2,Jabalpur,Madhya Pradesh,Central,Urban,Rajesh Bhattacharya,2012
+BR0131,Bhilai Extension Counter,Bhilai,Chhattisgarh,Central,Urban,Lakshmi Khanna,2017
+BR0132,Rourkela Central Branch,Rourkela,Odisha,East,Semi-Urban,Mahesh Agarwal,2021
+BR0133,Tiruchirappalli Main Branch 2,Tiruchirappalli,Tamil Nadu,South,Semi-Urban,Imran Agarwal,2000
+BR0134,Lucknow City Branch 2,Lucknow,Uttar Pradesh,North,Semi-Urban,Ananya Desai,2011
+BR0135,Gurugram City Branch,Gurugram,Haryana,North,Urban,Imran Bhattacharya,2012
+BR0136,Bengaluru Central Branch 2,Bengaluru,Karnataka,South,Metro,Rekha Iyer,2023
+BR0137,New Delhi Extension Counter,New Delhi,Delhi,North,Metro,Tanvi Sharma,1997
+BR0138,Vadodara Central Branch,Vadodara,Gujarat,West,Urban,Tanvi Bansal,2016
+BR0139,Jaipur Extension Counter,Jaipur,Rajasthan,North,Semi-Urban,Saurabh Joshi,2016
+BR0140,Kanpur Central Branch,Kanpur,Uttar Pradesh,North,Rural,Pankaj Chauhan,2004
+BR0141,Visakhapatnam Main Branch 2,Visakhapatnam,Andhra Pradesh,South,Urban,Pooja Iyer,2015
+BR0142,Cuttack Main Branch 2,Cuttack,Odisha,East,Metro,Karan Bansal,1990
+BR0143,Rohini Central Branch 3,Rohini,Delhi,North,Urban,Isha Trivedi,2001
+BR0144,Panipat Extension Counter,Panipat,Haryana,North,Metro,Amit Kapoor,2020
+BR0145,Bhilai Central Branch 2,Bhilai,Chhattisgarh,Central,Semi-Urban,Zara Bhattacharya,2018
+BR0146,Siliguri Branch 2,Siliguri,West Bengal,East,Semi-Urban,Kavita Pillai,2014
+BR0147,Jabalpur City Branch,Jabalpur,Madhya Pradesh,Central,Urban,Manoj Agarwal,2014
+BR0148,Varanasi Main Branch 2,Varanasi,Uttar Pradesh,North,Semi-Urban,Anjali Kumar,1996
+BR0149,Nashik City Branch,Nashik,Maharashtra,West,Rural,Ishaan Jain,2004
+BR0150,Lucknow Extension Counter,Lucknow,Uttar Pradesh,North,Rural,Ritu Kumar,1996

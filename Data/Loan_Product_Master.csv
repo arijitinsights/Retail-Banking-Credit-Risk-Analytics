@@ -1,0 +1,7 @@
+Loan_Type,Typical_Min_Amount,Typical_Max_Amount,Typical_Tenure,Base_Interest_Rate,Risk_Level
+Home Loan,500000,10000000,240,8.6,Low
+Personal Loan,50000,2000000,36,13.25,High
+Vehicle Loan,100000,1800000,72,9.75,Medium
+Education Loan,100000,4000000,120,10.5,Medium
+Business Loan,200000,5000000,60,12.5,High
+Gold Loan,20000,2000000,18,9.25,Low
