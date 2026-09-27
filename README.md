@@ -49,3 +49,14 @@ Excel, and Power BI.
 SQL Server (T-SQL, joins, CTEs, window functions, subqueries), Excel 
 (Power Query, Pivot Tables, data cleaning), Power BI (DAX, data modeling, 
 interactive dashboards)
+
+## Dashboard Preview
+
+### Portfolio Overview
+![Portfolio Overview](Dashboard_Screenshots/dashboard_page1_overview.png)
+
+### Risk & Credit Analysis
+![Risk & Credit Analysis](Dashboard_Screenshots/dashboard_page2_risk.png)
+
+### Branch & Product Performance
+![Branch & Product Performance](Dashboard_Screenshots/dashboard_page3_branch.png)
